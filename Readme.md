@@ -1,5 +1,11 @@
 # Python Interview Preparation – MCQs, Output Prediction & Coding Questions
 
+## How to Use
+
+- Try to solve all MCQs first.
+- Then attempt output prediction without running the code.
+- Finally, implement all coding questions in `solution.py` (or your own file).
+
 This document contains three sections commonly asked in Python basic-level interviews:
 - **Section A:** Multiple Choice Questions  
 - **Section B:** Output Prediction  
